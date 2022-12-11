@@ -1,6 +1,4 @@
-#homework2
-
-Сreation of a load balancer and virtual machines in one networking and export of the result in the form of a template
+Homework2 - Сreation of a load balancer and virtual machines in one networking and export of the result in the form of a template
 
 vm1 - first vm with public ip 20.56.12.122
 
